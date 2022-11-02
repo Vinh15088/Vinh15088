@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinh Sẹo</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">I'm from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vinh15088" alt="Vinh15088" /> </p>
 
 - ✍ I'm a student of: [Posts and Telecommunications Institute of Technology]([https://hcmute.edu.vn](https://portal.ptit.edu.vn/)) (PTIT).
 
