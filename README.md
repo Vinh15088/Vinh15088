@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Posts and Telecommunications Institute of Technology]([https://hcmute.edu.vn](https://portal.ptit.edu.vn/)) (PTIT).
 
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **HTML,CSS.**
 
 
 ## 📫 How to reach me:
