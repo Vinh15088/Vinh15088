@@ -5,7 +5,7 @@
 
 - ✍ I'm a student of: [Posts and Telecommunications Institute of Technology]([https://hcmute.edu.vn](https://portal.ptit.edu.vn/)) (PTIT).
 
-- 🌱 I’m currently learning **HTML,CSS.**
+- 🌱 Welcome my github**.**
 
 
 ## 📫 How to reach me:
@@ -26,9 +26,11 @@
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-boot.png"/>
+  
   <!--
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
