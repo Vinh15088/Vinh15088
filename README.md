@@ -25,9 +25,14 @@
 ## Skills:
 <p align="center">
 <!--   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>  -->
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-boot.png"/>
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=pHS3eRpynIRQ&format=png&color=000000"/>
+<!--   <img src=""/>
+  <img src=""/> -->
+  
+  
   
   <!--
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
